@@ -5,7 +5,7 @@ plugins:
 
 title: "Yumekko Strat"
 description: "Yumekko Private Strat"
-background_image: bg.png
+background_image: /assets/bg.png
 
 favicon_ico: "favicon.ico"
 

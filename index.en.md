@@ -17,4 +17,5 @@ permalink: /
 各攻略作者様は、いつも大変お世話になっています。決して攻略自体を批判するでなく、初見さんに優しく、考え事が少ない個別のギミックへの対処法をここに置こうかなと思います。
 
 *当サイトはいつもエレ野良向けの攻略をまとめてくださってるtuufless様のソースコードを参考して作っております。
+
 *This site was created by referring to the source code of tuufless, who always compiles strategies for Elemental PF.

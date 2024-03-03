@@ -13,7 +13,10 @@ permalink: /6.0_endwalker/another/siradeliha/
 
 ## １ボス シルキー
 
-###ポンポン創出４玉引っ張り１回目
+ポンポン創出４玉引っ張り１回目
 
 Game8カンペでもいいですが、もっと簡単な記憶法があります。
 
+真ん中風の場合、氷は隅へ、雷はABCDマーカーへ誘導
+
+![](images/ponpon1_wind.png)

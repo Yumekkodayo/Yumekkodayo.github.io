@@ -5,6 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
+<div style="background-image: url('bg.png'); background-size: cover;">
 
 # ゆめっこの作業場
 

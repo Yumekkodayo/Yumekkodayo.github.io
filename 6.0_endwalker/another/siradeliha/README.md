@@ -57,7 +57,7 @@ Game8カンペでもいいですが、もっと簡単な記憶法があります
 
 呪具３脳死 動画通りです
 
-参考：https://twitter.com/phil_ff14/status/1582745351110692864?s=20&t=ESktY5rjzNEMLOiPGDzX5A
+参考：[めるさんのX](https://twitter.com/phil_ff14/status/1582745351110692864?s=20&t=ESktY5rjzNEMLOiPGDzX5A)
 
 一点補足として、動画のマーカーだとギリギリ当たる可能性あるのでほかのマーカー出します（相談可）、この場合は真北／真南の斧の正面とマーカーに立ちます。
 
@@ -71,7 +71,7 @@ Game8カンペでもいいですが、もっと簡単な記憶法があります
 
 呪具５固定
 
-参考：https://twitter.com/mitsurugi137/status/1586003333206024192
+参考：[攻略見る趣味さんのX](https://twitter.com/mitsurugi137/status/1586003333206024192)
 
 北西：T　北東：H　南西：D1　南東：D2
 

@@ -7,3 +7,4 @@ has_toc: false
 permalink: /legacycontents/
 ---
 
+非対応

@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# FFXIV Elemental Raid Macros
+# ゆめっこ改良解法置き場
 
 This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
 

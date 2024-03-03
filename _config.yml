@@ -1,0 +1,24 @@
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
+
+plugins:
+  - jekyll-seo-tag
+
+title: "FFXIV Elemental Raid Macros"
+description: "Final Fantasy XIV Elemental DC Raid Macros"
+
+favicon_ico: "favicon.ico"
+
+color_scheme: dark
+
+aux_links:
+  "Elemental DC Raid Macros Discord":
+    - "https://discord.gg/WEzhVHwAU6"
+  "Github":
+    - "https://github.com/Tuufless/FFXIV-Elemental-raid-macros"
+
+aux_links_new_tab: true
+
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"

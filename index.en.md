@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
+background: bg.png
 ---
 
 <div style="background-image: url('bg.png'); background-size: cover;">

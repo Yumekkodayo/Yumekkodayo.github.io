@@ -19,4 +19,4 @@ Game8カンペでもいいですが、もっと簡単な記憶法があります
 
 真ん中風の場合、氷は隅へ、雷はABCDマーカーへ誘導
 
-![](images/ponpon1_wind.png)
+![](image/ponpon1_wind.png)

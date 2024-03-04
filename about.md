@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 当サイトに掲載されてる攻略について
+title: 注意事項
 nav_order: 2
 has_children: false
 has_toc: false

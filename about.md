@@ -1,13 +1,13 @@
 ---
 layout: default
-title: ゆめっこ攻略集について
+title: 当サイトに掲載されてる攻略について
 nav_order: 2
 has_children: false
 has_toc: false
 permalink: /about/
 ---
 
-# ゆめっこ攻略集について
+# 当サイトに掲載されてる攻略について
 
 基本は個人＆身内用に見つけてきたいい攻略（やりやすいが主流ではない、もしくは海外鯖で流行ってる攻略法を掲載してます。
 

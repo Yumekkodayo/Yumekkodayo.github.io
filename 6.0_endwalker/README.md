@@ -9,17 +9,18 @@ permalink: /6.0_endwalker/
 
 # 6.0 暁月のフィナーレ
 
-レベル９０だよ
+レベルシンクは*90*です
 
-## Extreme Trials
+## 極討滅戦
 
-- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](extreme_trials/zodiark/README.md)
-- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn/README.md)
-- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger/README.md)
-- **Barbariccia EX** - [Storm's Crown (Extreme)](extreme_trials/barbariccia/README.md)
-- **Rubicante EX** - [Mount Ordeals (Extreme)](extreme_trials/rubicante/README.md)
-- **Golbez EX** - [The Voidcast Dais (Extreme)](extreme_trials/golbez/README.md)
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](extreme_trials/zeromus/README.md)
+- **極ゾディアーク討滅戦** - [月の底](zodiark/README.md)
+- **極ハイデリン討滅戦** - [マザークリスタル](hydaelyn/README.md)
+- **終極の戦い** - [果ての終焉](endsinger/README.md)
+- **極バルバリシア討滅戦** - [呪髪の風塔](barbariccia/README.md)
+- **極ルビカンテ討滅戦** - [試練の山](rubicante/README.md)
+- **極ゴルベーザ討滅戦** - [立方魔法陣](golbez/README.md)
+- **極ゼロムス討滅戦** - [赤き月の底](zeromus/README.md)
+
 
 ## Savage
 

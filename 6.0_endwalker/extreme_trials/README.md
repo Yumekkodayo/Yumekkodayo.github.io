@@ -7,7 +7,7 @@ has_toc: false
 permalink: /6.0_endwalker/extreme_trials/
 ---
 
-# Extreme Trials
+# 極討滅戦
 
 - **極ゾディアーク討滅戦** - [月の底](zodiark/README.md)
 - **極ハイデリン討滅戦** - [マザークリスタル](hydaelyn/README.md)

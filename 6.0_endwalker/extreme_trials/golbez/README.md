@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Golbez EX
-parent: Extreme Trials
+parent: 極討滅戦
 nav_order: 6
-grand_parent: 6.0 Endwalker
+grand_parent: 6.0 暁月コンテンツ
 permalink: /6.0_endwalker/extreme_trials/golbez/
 ---
 

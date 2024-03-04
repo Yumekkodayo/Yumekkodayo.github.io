@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Extreme Trials
-parent: 6.0 Endwalker
+title: 極討滅戦
+parent: 6.0 暁月コンテンツ
 has_children: true
 has_toc: false
 permalink: /6.0_endwalker/extreme_trials/

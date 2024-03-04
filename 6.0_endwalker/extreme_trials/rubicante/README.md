@@ -3,7 +3,7 @@ layout: default
 title: Rubicante EX
 parent: 極討滅戦
 nav_order: 5
-grand_parent: 6.0 暁月コンテンツ
+grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/rubicante/
 ---
 

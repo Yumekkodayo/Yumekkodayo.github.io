@@ -3,8 +3,8 @@ layout: default
 title: 異聞六根山
 parent: 異聞ダンジョン
 nav_order: 2
-grand_parent: 6.0 暁月コンテンツ
-permalink: /6.0_endwalker/another/rokkonzan/
+grand_parent: ゆめっこの攻略
+permalink: /yumekko/another/rokkonzan/
 ---
 
 # 異聞六根山

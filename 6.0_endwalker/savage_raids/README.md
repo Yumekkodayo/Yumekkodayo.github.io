@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Savage Raids
-parent: 6.0 Endwalker
+title: 零式レイド
+parent: 6.0 暁月のフィナーレ
 has_children: true
 has_toc: false
 permalink: /6.0_endwalker/savage_raids/

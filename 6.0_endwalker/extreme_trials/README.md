@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 極討滅戦
-parent: 6.0 暁月コンテンツ
+parent: 6.0 暁月のフィナーレ
 has_children: true
 has_toc: false
 permalink: /6.0_endwalker/extreme_trials/

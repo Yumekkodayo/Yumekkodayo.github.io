@@ -1,9 +1,9 @@
 ---
 layout: default
 title: P10S
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "10"
-grand_parent: 6.0 Endwalker
+grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/savage_raids/p10s/
 ---
 

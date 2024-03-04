@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 異聞ダンジョン
-parent: 6.0 暁月コンテンツ
+parent: ゆめっこの攻略
 has_children: true
 has_toc: false
-permalink: /6.0_endwalker/another/
+permalink: /yumekko/another/
 ---
 
 ## 異聞

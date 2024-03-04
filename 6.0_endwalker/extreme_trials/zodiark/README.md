@@ -3,7 +3,7 @@ layout: default
 title: Zodiark EX
 parent: 極討滅戦
 nav_order: 1
-grand_parent: 6.0 暁月コンテンツ
+grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/zodiark/
 ---
 

@@ -3,8 +3,8 @@ layout: default
 title: 異聞アロアロ島
 parent: 異聞ダンジョン
 nav_order: 3
-grand_parent: 6.0 暁月コンテンツ
-permalink: /6.0_endwalker/another/aroarotoh/
+grand_parent: ゆめっこの攻略
+permalink: /yumekko/another/aroarotoh/
 ---
 
 # 異聞アロアロ島

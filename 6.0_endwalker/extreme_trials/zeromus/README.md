@@ -3,7 +3,7 @@ layout: default
 title: Zeromus EX
 parent: 極討滅戦
 nav_order: 7
-grand_parent: 6.0 暁月コンテンツ
+grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/zeromus/
 ---
 

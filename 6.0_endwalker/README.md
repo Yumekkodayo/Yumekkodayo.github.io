@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6.0 暁月コンテンツ
+title: 6.0 暁月のフィナーレ
 nav_order: 6
 has_children: true
 has_toc: false

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: P2S
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "02"
-grand_parent: 6.0 Endwalker
+grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/savage_raids/p2s/
 ---
 

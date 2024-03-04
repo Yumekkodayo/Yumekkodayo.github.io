@@ -3,8 +3,8 @@ layout: default
 title: 異聞シラディハ
 parent: 異聞ダンジョン
 nav_order: 1
-grand_parent: 6.0 暁月コンテンツ
-permalink: /6.0_endwalker/another/siradeliha/
+grand_parent: ゆめっこの攻略
+permalink: /yumekko/another/siradeliha/
 ---
 
 # 異聞シラディハ

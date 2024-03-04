@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.0 A Realm Reborn
-nav_order: 9
+nav_order: 10
 has_children: true
 has_toc: false
 permalink: /2.0_a_realm_reborn/

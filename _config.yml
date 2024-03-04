@@ -3,8 +3,8 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
 plugins:
   - jekyll-seo-tag
 
-title: "Yumekko Strat"
-description: "Yumekko Private Strat"
+title: "Yumekko Workspace"
+description: "Yumekko Private Workspace"
 background_image: /assets/bg.png
 
 favicon_ico: "favicon.ico"

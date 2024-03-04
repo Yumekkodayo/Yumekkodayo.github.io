@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Golbez EX
+title: 極ゴルベーザ討滅戦
 parent: 極討滅戦
 nav_order: 6
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/golbez/
 ---
 
-# The Voidcast Dais (Extreme)
+# 立方魔法陣
 
 [Game8](https://game8.jp/ff14/529320) has gone ahead with a modified version of Hamkatsu's strat for Golbez EX.
 

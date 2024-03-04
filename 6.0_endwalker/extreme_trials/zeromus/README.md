@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Zeromus EX
+title: 極ゼロムス討滅戦
 parent: 極討滅戦
 nav_order: 7
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/zeromus/
 ---
 
-# The Abyssal Fracture (Extreme)
+# 赤き月の底
 
 [Game8](https://game8.jp/ff14/557945) has gone ahead with Hamkatsu's strat:
 

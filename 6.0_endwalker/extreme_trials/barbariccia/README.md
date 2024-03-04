@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Barbariccia EX
+title: 極バルバリシア討滅戦
 parent: 極討滅戦
 nav_order: 4
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/barbariccia/
 ---
 
-# Storm's Crown (Extreme)
+# 呪髪の風塔
 
 This is [Game8's macro](https://game8.jp/ff14/477950).
 

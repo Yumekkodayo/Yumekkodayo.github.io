@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Endsinger EX
+title: 終極の戦い
 parent: 極討滅戦
 nav_order: 3
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/endsinger/
 ---
 
-# The Minstrel's Ballad: The Endsinger's Aria
+# 果ての終焉
 
 PF largely follows Nukemaru's guide:
 

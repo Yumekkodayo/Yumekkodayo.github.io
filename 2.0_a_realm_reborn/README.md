@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.0 A Realm Reborn
+title: 2.0 A Realm Reborn（作業中）
 nav_order: 10
 has_children: true
 has_toc: false

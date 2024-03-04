@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Hydaelyn EX
+title: 極ハイデリン討滅戦
 parent: 極討滅戦
 nav_order: 2
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/hydaelyn/
 ---
 
-# The Minstrel's Ballad: Hydaelyn's Call
+# マザークリスタル
 
 PF uses [Hamkatsu's strat](https://youtu.be/xrN2viqpTqc) *(yes, this is the downtime Chakrams strat)*
 

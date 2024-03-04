@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Rubicante EX
+title: 極ルビカンテ討滅戦
 parent: 極討滅戦
 nav_order: 5
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/rubicante/
 ---
 
-# Mount Ordeals (Extreme)
+# 試練の山
 
 These macros are from [Game8](https://game8.jp/ff14/507079) which follows Nukemaru's strat.
 

@@ -9,10 +9,10 @@ permalink: /6.0_endwalker/extreme_trials/
 
 # Extreme Trials
 
-- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](zodiark/README.md)
-- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](hydaelyn/README.md)
-- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](endsinger/README.md)
-- **Barbariccia EX** - [Storm's Crown (Extreme)](barbariccia/README.md)
-- **Rubicante EX** - [Mount Ordeals (Extreme)](rubicante/README.md)
-- **Golbez EX** - [The Voidcast Dais (Extreme)](golbez/README.md)
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](zeromus/README.md)
+- **極ゾディアーク討滅戦** - [月の底](zodiark/README.md)
+- **極ハイデリン討滅戦** - [マザークリスタル](hydaelyn/README.md)
+- **終極の戦い** - [果ての終焉](endsinger/README.md)
+- **極バルバリシア討滅戦** - [呪髪の風塔](barbariccia/README.md)
+- **極ルビカンテ討滅戦** - [試練の山](rubicante/README.md)
+- **極ゴルベーザ討滅戦** - [立方魔法陣](golbez/README.md)
+- **極ゼロムス討滅戦** - [赤き月の底](zeromus/README.md)

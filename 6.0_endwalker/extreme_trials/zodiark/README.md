@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Zodiark EX
+title: 極ゾディアーク討滅戦
 parent: 極討滅戦
 nav_order: 1
 grand_parent: 6.0 暁月のフィナーレ
 permalink: /6.0_endwalker/extreme_trials/zodiark/
 ---
 
-# The Minstrel's Ballad: Zodiark's Fall
+# 月の底
 
 No macro needed for this fight! *(just dodge everything)*
 

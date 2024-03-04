@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5.0 Shadowbringers
-nav_order: 6
+nav_order: 7
 has_children: true
 has_toc: false
 permalink: /5.0_shadowbringers/

@@ -21,7 +21,7 @@ permalink: /yumekko/
 - **異聞六根山** - [異聞六根山](another/rokkonzan/README.md)
 - **異聞アロアロ島** - [異聞アロアロ島](another/aroarotoh/README.md)
 
-##今後対応予定
+## 今後対応予定
 考えてます
 
 

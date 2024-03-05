@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extreme Trials
-parent: 4.0 Stormblood
+title: 極討滅戦
+parent: 4.0 紅蓮のリベレーター
 has_children: true
 has_toc: false
 permalink: /4.0_stormblood/extreme_trials/
 ---
 
-# Extreme Trials
+# 極討滅戦
 
 - **Susano EX** - [The Pool of Tribute (Extreme)](susano/README.md)
 - **Lakshmi EX** - [Emanation (Extreme)](lakshmi/README.md)

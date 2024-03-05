@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sephirot EX
-parent: Extreme Trials
+parent: 極討滅戦
 nav_order: 4
-grand_parent: 3.0 Heavensward
+grand_parent: 3.0 蒼天のイシュガルド
 permalink: /3.0_heavensward/extreme_trials/sephirot/
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: E12S P1
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "12_1"
-grand_parent: 5.0 Shadowbringers
+grand_parent: 5.0 漆黒のヴィランズ
 permalink: /5.0_shadowbringers/savage_raids/e12s_1/
 ---
 

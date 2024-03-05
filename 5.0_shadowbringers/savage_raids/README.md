@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Savage Raids
-parent: 5.0 Shadowbringers
+title: 零式レイド
+parent: 5.0 漆黒のヴィランズ
 has_children: true
 has_toc: false
 permalink: /5.0_shadowbringers/savage_raids/

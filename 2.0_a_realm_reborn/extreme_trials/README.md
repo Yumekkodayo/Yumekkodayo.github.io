@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extreme Trials
-parent: 2.0 A Realm Reborn
+title: 極討滅戦
+parent: 2.0 新生エオルゼア
 has_children: true
 has_toc: false
 permalink: /2.0_a_realm_reborn/extreme_trials/
 ---
 
-## Extreme Trials
+## 極討滅戦
 
 - **Garuda EX** - [The Howling Eye (Extreme)](garuda/README.md)
 - **Titan EX** - [The Navel (Extreme)](titan/README.md)

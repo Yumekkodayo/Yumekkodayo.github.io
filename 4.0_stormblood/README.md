@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4.0 Stormblood（作業中）
+title: 4.0 紅蓮のリベレーター
 nav_order: 8
 has_children: true
 has_toc: false

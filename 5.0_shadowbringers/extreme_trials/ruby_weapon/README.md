@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ruby Weapon EX
-parent: Extreme Trials
+parent: 極討滅戦
 nav_order: 4
-grand_parent: 5.0 Shadowbringers
+grand_parent: 5.0 漆黒のヴィランズ
 permalink: /5.0_shadowbringers/extreme_trials/ruby_weapon/
 ---
 

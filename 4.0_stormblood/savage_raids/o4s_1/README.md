@@ -1,9 +1,9 @@
 ---
 layout: default
 title: O4S P1
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "04_1"
-grand_parent: 4.0 Stormblood
+grand_parent: 4.0 紅蓮のリベレーター
 permalink: /4.0_stormblood/savage_raids/o4s_1/
 ---
 

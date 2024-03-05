@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Shiva EX
-parent: Extreme Trials
+parent: 極討滅戦
 nav_order: 8
-grand_parent: 2.0 A Realm Reborn
+grand_parent: 2.0 新生エオルゼア
 permalink: /2.0_a_realm_reborn/extreme_trials/shiva/
 ---
 

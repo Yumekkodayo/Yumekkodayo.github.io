@@ -1,9 +1,9 @@
 ---
 layout: default
 title: O8S P2
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "08_2"
-grand_parent: 4.0 Stormblood
+grand_parent: 4.0 紅蓮のリベレーター
 permalink: /4.0_stormblood/savage_raids/o8s_2/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5.0 Shadowbringers （作業中）
+title: 5.0 漆黒のヴィランズ
 nav_order: 7
 has_children: true
 has_toc: false

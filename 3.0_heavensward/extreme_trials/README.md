@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extreme Trials
-parent: 3.0 Heavensward
+title: 極討滅戦
+parent: 3.0 蒼天のイシュガルド
 has_children: true
 has_toc: false
 permalink: /3.0_heavensward/extreme_trials/
 ---
 
-# Extreme Trials
+# 極討滅戦
 
 - **Bismarck EX** - The Limitless Blue (Extreme)
 - **Ravana EX** - [Thok ast Thok (Extreme)](ravana/README.md)

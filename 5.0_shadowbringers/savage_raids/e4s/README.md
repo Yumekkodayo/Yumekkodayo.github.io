@@ -1,9 +1,9 @@
 ---
 layout: default
 title: E4S
-parent: Savage Raids
+parent: 零式レイド
 nav_order: "04"
-grand_parent: 5.0 Shadowbringers
+grand_parent: 5.0 漆黒のヴィランズ
 permalink: /5.0_shadowbringers/savage_raids/e4s/
 ---
 

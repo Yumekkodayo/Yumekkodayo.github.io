@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extreme Trials
-parent: 5.0 Shadowbringers
+title: 極討滅戦
+parent: 5.0 漆黒のヴィランズ
 has_children: true
 has_toc: false
 permalink: /5.0_shadowbringers/extreme_trials/
 ---
 
-# Extreme Trials
+# 極討滅戦
 
 - **Titania EX** - [The Dancing Plague (Extreme)](titania/README.md)
 - **Innocence EX** - [The Crown of the Immaculate (Extreme)](innocence/README.md)

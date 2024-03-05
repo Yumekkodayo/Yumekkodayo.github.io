@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tsukuyomi EX
-parent: Extreme Trials
+parent: 極討滅戦
 nav_order: 4
-grand_parent: 4.0 Stormblood
+grand_parent: 4.0 紅蓮のリベレーター
 permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Savage Raids
-parent: 3.0 Heavensward
+title: 零式レイド
+parent: 3.0 蒼天のイシュガルド
 has_children: true
 has_toc: false
 permalink: /3.0_heavensward/savage_raids/

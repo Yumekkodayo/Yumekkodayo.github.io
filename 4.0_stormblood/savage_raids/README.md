@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Savage Raids
-parent: 4.0 Stormblood
+title: 零式レイド
+parent: 4.0 紅蓮のリベレーター
 has_children: true
 has_toc: false
 permalink: /4.0_stormblood/savage_raids/

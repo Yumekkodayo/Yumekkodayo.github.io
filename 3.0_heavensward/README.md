@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.0 Heavensward（作業中）
+title: 3.0 蒼天のイシュガルド
 nav_order: 9
 has_children: true
 has_toc: false

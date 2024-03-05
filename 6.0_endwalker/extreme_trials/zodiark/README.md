@@ -9,32 +9,14 @@ permalink: /6.0_endwalker/extreme_trials/zodiark/
 
 # 月の底
 
-No macro needed for this fight! *(just dodge everything)*
+この戦いにはマクロは必要ありません！ *(ただすべてを避けるだけです)*
 
 {% include youtube.html id="fg-NG2EQY-o" %}
 
 ## Markers
 
-The `A` marker is placed so that it is the safe spot for Adikia + front row AoE.
+`A` マーカーは、Adikia + 前列の全体攻撃の安全地帯となるように配置されます。
 
-All other markers are not really needed, but can be useful for calling out safe spots during the starstorm.
+他のマーカーは実際には必要ありませんが、スターストーム中に安全地帯を指示する際に役立つことがあります。
 ![](images/markers.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-```json
-{
-  "Name":"Zodiark EX",
-  "MapID":803,
-  "A":{"X":100.0,"Y":0.0,"Z":92.0,"ID":0,"Active":true},
-  "B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},
-  "D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":114.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},
-  "Two":{"X":114.0,"Y":0.0,"Z":114.0,"ID":5,"Active":true},
-  "Three":{"X":86.0,"Y":0.0,"Z":114.0,"ID":6,"Active":true},
-  "Four":{"X":86.0,"Y":0.0,"Z":86.0,"ID":7,"Active":true}
-}
-```
-
-</details>

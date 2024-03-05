@@ -16,7 +16,7 @@ background: bg.png
 
 [注意事項](https://yumekkodayo.github.io/about/)
 
-### Tuufless様サイトの和訳
+### [Tuufless様サイト](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/)の和訳
 
 - **7.0 黄金のレガシー** - [7.0 黄金のレガシー](7.0_dawntrail/README.md)
 - **6.0 暁月のフィナーレ** - [6.0 暁月のフィナーレ](6.0_endwalker/README.md)

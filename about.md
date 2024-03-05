@@ -15,9 +15,9 @@ permalink: /about/
 
 攻略を採用した際発生された固定内のトラブルなど、一切責任を負いかねますのでご注意ください。
 
-あとは個人用に[Tuufless様のエレ野良攻略集](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/)を和訳しております。
+あとは個人用に[Tuufless様のエレ野良攻略集](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/)を和訳しております。（許可済み）
 
-![許可得てます](assets/iroiro/shounin.png)
+![](assets/iroiro/shounin.png)
 
 もう凪に入ったので主に特筆すべきもの（メンタールレ用極討滅、青魔用各零式4層、装備周回用解除でもめんどくさいやつ）のみ翻訳してます。
 
